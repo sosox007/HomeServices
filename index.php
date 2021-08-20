@@ -4,21 +4,8 @@ include('header.php');
 
 ?>
 
-      <nav class="nav-menu d-none d-lg-block">
-        <ul>
-          <li><a href="how-it-works.php">Fonctionnement</a></li>
-          <li><a href="faq.php">F.A.Q</a></li>
-          <li><a href="contact.php">Contact Us</a></li>
-
-          <li class="get-started"><a href="#features">Get Started</a></li>
-        </ul>
-      </nav><!-- .nav-menu -->
-
-    </div>
-  </header><!-- End Header -->
-
   <!-- ======= Hero Section ======= -->
-  <section id="hero" class="d-flex align-items-center">
+  <section id="" class="d-flex align-items-center he">
 
     <div class="container">
       <div class="row">
@@ -26,11 +13,21 @@ include('header.php');
           class="col-lg-6 d-lg-flex flex-lg-column justify-content-center align-items-stretch pt-5 pt-lg-0 order-2 order-lg-1"
           data-aos="fade-up">
           <div>
-            <h1>App landing page template</h1>
-            <h2>Lorem ipsum dolor sit amet, tota senserit percipitur ius ut, usu et fastidii forensibus voluptatibus.
-              His ei nihil feugait</h2>
-            <a href="#" class="download-btn"><i class="bx bxl-play-store"></i> Google Play</a>
-            <a href="#" class="download-btn"><i class="bx bxl-apple"></i> App Store</a>
+            <div class="section-title" style="text-align:left;padding:0px;">
+              <h2>Le moyen le plus simple de retenir des services</h2>
+            </div>
+            <h2>Engagez les meilleurs professionnels pour vos petits et grands travaux en un seul clic.</h2><br>
+            <button class="btn btn-outline-dark btn-icon-text">
+                       <i class="fa fa-android btn-icon-prepend mdi-36px"></i>
+                        <span class="d-inline-block text-left">
+                           <small class="font-weight-light d-block">Disponible sur</small> Google Play </span> 
+                          </button>  &nbsp;
+                    &nbsp;&nbsp;
+            <button class="btn btn-outline-dark btn-icon-text">
+                  <i class="fa fa-apple btn-icon-prepend mdi-36px"></i> 
+                  <span class="d-inline-block text-left"> 
+                    <small class="font-weight-light d-block">Disponible sur</small> App Store </span> </button>
+                   
           </div>
         </div>
         <div class="col-lg-6 d-lg-flex flex-lg-column align-items-stretch order-1 order-lg-2 hero-img"
@@ -43,46 +40,65 @@ include('header.php');
   </section><!-- End Hero -->
 
   <main id="main">
-
-
-    <!-- ======= Details Section ======= -->
-          <section id="details" class="details">
-            <div class="container">
-
-            <br><br>
-
-      <div class="embed-responsive embed-responsive-16by9">
-      <iframe class="embed-responsive-item" src="vid/vid.mp4"></iframe>
-      </div>
-            </div>
-          </section><!-- End Details Section -->
-
+      
     <!-- ======= Gallery Section ======= -->
     <section id="gallery" class="gallery" style="background-color:#EFF2F8;">
       <div class="container">
 
         <div class="section-title">
-          <h2>Gallery</h2>
-          <p>Magnam dolores commodi suscipit. Necessitatibus eius consequatur ex aliquid fuga eum quidem. Sit sint
-            consectetur velit. Quisquam quos quisquam cupiditate. Et nemo qui impedit suscipit alias ea. Quia fugiat sit
-            in iste officiis commodi quidem hic quas.</p>
+          <h2>Découvrez Appland</h2>
         </div>
 
-        <div class="owl-carousel gallery-carousel" data-aos="fade-up">
-          <a href="assets/img/gallery/gallery-1.png" class="venobox" data-gall="gallery-carousel"><img
-              src="assets/img/gallery/gallery-1.png" alt=""></a>
-          <a href="assets/img/gallery/gallery-2.png" class="venobox" data-gall="gallery-carousel"><img
-              src="assets/img/gallery/gallery-2.png" alt=""></a>
-          <a href="assets/img/gallery/gallery-3.png" class="venobox" data-gall="gallery-carousel"><img
-              src="assets/img/gallery/gallery-3.png" alt=""></a>
-          <a href="assets/img/gallery/gallery-4.png" class="venobox" data-gall="gallery-carousel"><img
-              src="assets/img/gallery/gallery-4.png" alt=""></a>
+        <div class="owl-carousel gallery-carousel" data-aos="fade-up" >
+          <img 
+              src="assets/img/gallery/gallery-1.png" class="soso" alt="">
+          <img
+              src="assets/img/gallery/gallery-2.png" class="soso" alt="">
+          <img
+              src="assets/img/gallery/gallery-3.png" class="soso" alt="">
+          <img
+              src="assets/img/gallery/gallery-4.png" class="soso" alt="">
         </div>
 
           
 
       </div>
     </section><!-- End Gallery Section -->
+
+        <section id="details" class="details">
+                 <div class="container">
+                  <div class="row content">
+                    <div class="col-md-4" data-aos="fade-right">
+                      <img src="assets/img/details-10.png" height="300px" width="250px" alt="">
+                    </div>
+                    <div class="col-md-8 pt-4" data-aos="fade-up">
+                      <div class="section-title" style="text-align:left;padding:0px;">
+                          <h2>Notre polyvalence fait notre force</h2>
+                      </div>
+                      <h1 class="font-italic">
+                      Nous offrons un large <br>  
+                      éventail de services
+                      </h1>
+                      
+                      <p>
+                      Nettoyage, plomberie, électricité, rénovation, construction. <br> 
+                      Quoi que vous ayez besoin, quand vous en ayez besoin,<br> nous nous en occupons.
+                      </p>
+                    </div>
+                  </div>
+                </div>
+      </section>
+    <!-- ======= Details Section ======= -->
+          <section id="details" class="details" style="background-color:#EFF2F8;">
+            <div class="container">
+
+              <div class="embed-responsive embed-responsive-16by9">
+              <iframe class="embed-responsive-item" src="vid/vid.mp4"></iframe>
+              </div>
+            </div>
+          </section><!-- End Details Section -->
+
+
 
     
 

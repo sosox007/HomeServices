@@ -4,100 +4,109 @@ include('header.php');
 
 ?>
 
-<nav class="nav-menu d-none d-lg-block">
-        <ul>
-          
-          <li><a href="how-it-works.php">Fonctionnement</a></li>
-          <li class="active"><a href="faq.php">F.A.Q</a></li>
-          <li><a href="contact.php">Contact Us</a></li>
 
-          <li class="get-started"><a href="#features">Get Started</a></li>
-        </ul>
-      </nav><!-- .nav-menu -->
-
-    </div>
-  </header><!-- End Header -->
     <!-- ======= Frequently Asked Questions Section ======= -->
     <section id="faq" class="faq section-bg">
       <div class="container">
 
         <div class="section-title">
             <br><br>
-          <h2>Frequently Asked Questions</h2>
-          <p>Magnam dolores commodi suscipit.  Et nemo qui impedit suscipit alias ea. Quia fugiat sit
-            in iste officiis commodi quidem hic quas.</p>
+          <h2>Foire aux Questions</h2>
         </div>
 
         <div class="accordion-list">
           <ul>
-            <li data-aos="fade-up">
+          <li data-aos="fade-up">
               <i class="bx bx-help-circle icon-help"></i> <a data-toggle="collapse" class="collapsed"
-                href="#accordion-list-1">Non consectetur a erat nam at lectus urna duis? <i
+                href="#accordion-list-1">Qu’est-ce que Appland?<i
                   class="bx bx-chevron-down icon-show"></i><i class="bx bx-chevron-up icon-close"></i></a>
               <div id="accordion-list-1" class="collapse" data-parent=".accordion-list">
                 <p>
-                  Feugiat pretium nibh ipsum consequat. Tempus iaculis urna id volutpat lacus laoreet non curabitur
-                  gravida. Venenatis lectus magna fringilla urna porttitor rhoncus dolor purus non.
+                    Appland est la première entreprise au Maroc qui propose des services de qualité, 
+                    avec des artisans de confiance, près de chez vous, sans ajout de tarifs dans 
+                    votre facture.
+                    Appland se présente sous forme d’une application et d’une page web, qui vous 
+                    permettra de passer votre commande a n’importe quel moment, tout en 
+                    économisant votre temps et votre argent.
                 </p>
               </div>
             </li>
 
             <li data-aos="fade-up" data-aos-delay="100">
               <i class="bx bx-help-circle icon-help"></i> <a data-toggle="collapse" href="#accordion-list-2"
-                class="collapsed">Feugiat scelerisque varius morbi enim nunc? <i
+                class="collapsed">Comment ça marche?<i
                   class="bx bx-chevron-down icon-show"></i><i class="bx bx-chevron-up icon-close"></i></a>
               <div id="accordion-list-2" class="collapse" data-parent=".accordion-list">
                 <p>
-                  Dolor sit amet consectetur adipiscing elit pellentesque habitant morbi. Id interdum velit laoreet id
-                  donec ultrices. Fringilla phasellus faucibus scelerisque eleifend donec pretium. Est pellentesque elit
-                  ullamcorper dignissim. Mauris ultrices eros in cursus turpis massa tincidunt dui.
+                      Étape 1:Une fois que vous êtes inscrit, choisissez le type d’intervention que 
+                      vous souhaitez avoir au niveau des catégories présentées. Ensuite précisez la 
+                      nature de votre problème, choisissez la date et le temps que vous souhaitez et 
+                      enfin saisissez votre adresse. 
+                      Etape2:un agent de Appland vous contactera pour avoir plus d’information, et 
+                      ainsi estimer les prix qui vous seront transmis dans votre devis envoyé par 
+                      email 
+                      Etape3 : vous n’avez qu’à attendre que le superviseur et l’artisan de Appland 
+                      soient chez vous.
+                      NB : le devis est susceptible au changement selon la prestation et le matériel 
+                      utilisé . Toute fois nos tarifs restent les meilleurs car nous avons préalablement 
+                      négocié avec des experts pour la panoplie de services.
                 </p>
               </div>
             </li>
 
             <li data-aos="fade-up" data-aos-delay="200">
               <i class="bx bx-help-circle icon-help"></i> <a data-toggle="collapse" href="#accordion-list-3"
-                class="collapsed">Dolor sit amet consectetur adipiscing elit? <i
+                class="collapsed">Puis-je passer une commande si je représente une entreprise ?<i
                   class="bx bx-chevron-down icon-show"></i><i class="bx bx-chevron-up icon-close"></i></a>
               <div id="accordion-list-3" class="collapse" data-parent=".accordion-list">
                 <p>
-                  Eleifend mi in nulla posuere sollicitudin aliquam ultrices sagittis orci. Faucibus pulvinar elementum
-                  integer enim. Sem nulla pharetra diam sit amet nisl suscipit. Rutrum tellus pellentesque eu tincidunt.
-                  Lectus urna duis convallis convallis tellus. Urna molestie at elementum eu facilisis sed odio morbi
-                  quis
+                    Bien sûr ! L’entreprise concernée pourra faire un appel direct soit a travers 
+                    notre département commercial (numéro tel : 06 21 21 56 75) ou à travers notre 
+                    courriel, «contact@wefix.ma»
                 </p>
               </div>
             </li>
 
             <li data-aos="fade-up" data-aos-delay="300">
               <i class="bx bx-help-circle icon-help"></i> <a data-toggle="collapse" href="#accordion-list-4"
-                class="collapsed">Tempus quam pellentesque nec nam aliquam sem et tortor consequat? <i
+                class="collapsed">Quels types de services proposez-vous ?<i
                   class="bx bx-chevron-down icon-show"></i><i class="bx bx-chevron-up icon-close"></i></a>
               <div id="accordion-list-4" class="collapse" data-parent=".accordion-list">
                 <p>
-                  Molestie a iaculis at erat pellentesque adipiscing commodo. Dignissim suspendisse in est ante in. Nunc
-                  vel risus commodo viverra maecenas accumsan. Sit amet nisl suscipit adipiscing bibendum est. Purus
-                  gravida quis blandit turpis cursus in.
+                    Spécialiste du dépannage à domicile en urgence, nous intervenons dans de 
+                    nombreux domaines : plomberie, serrurerie, électricité, chauffage, vitrerie et 
+                    électroménager. 
+                    Nous disposons également d’un autres corps de métiers complémentaires tels 
+                    que le jardinage et les petits travaux.
                 </p>
               </div>
             </li>
 
             <li data-aos="fade-up" data-aos-delay="400">
               <i class="bx bx-help-circle icon-help"></i> <a data-toggle="collapse" href="#accordion-list-5"
-                class="collapsed">Tortor vitae purus faucibus ornare. Varius vel pharetra vel turpis nunc eget lorem
-                dolor? <i class="bx bx-chevron-down icon-show"></i><i class="bx bx-chevron-up icon-close"></i></a>
+                class="collapsed">Quels sont les critères pour vos professionnels ? <i class="bx bx-chevron-down icon-show"></i><i class="bx bx-chevron-up icon-close"></i></a>
               <div id="accordion-list-5" class="collapse" data-parent=".accordion-list">
                 <p>
-                  Laoreet sit amet cursus sit amet dictum sit amet justo. Mauris vitae ultricies leo integer malesuada
-                  nunc vel. Tincidunt eget nullam non nisi est sit amet. Turpis nunc eget lorem dolor sed. Ut venenatis
-                  tellus in metus vulputate eu scelerisque.
+                    Tout nos artisans sont choisis et ont passé par une formation, ils ne sont pas 
+                    des salarie de la société mais des artisans locaux de confiance. Appland vous 
+                    garantit la qualité de ses services et la satisfaction de vos besoins
+                </p>
+              </div>
+            </li>
+
+            <li data-aos="fade-up" data-aos-delay="500">
+              <i class="bx bx-help-circle icon-help"></i> <a data-toggle="collapse" href="#accordion-list-6"
+                class="collapsed">Comment fonctionne le paiement sur Appland ?<i class="bx bx-chevron-down icon-show"></i><i class="bx bx-chevron-up icon-close"></i></a>
+              <div id="accordion-list-6" class="collapse" data-parent=".accordion-list">
+                <p>
+                Le paiement doit se faire en espèce une fois que le service est conclu.
+                Le client devra octroyer l’argent aux superviseurs, en échange de la facture
                 </p>
               </div>
             </li>
 
           </ul>
         </div>
-
       </div>
     </section><!-- End Frequently Asked Questions Section -->
 
