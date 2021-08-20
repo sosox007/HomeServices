@@ -50,7 +50,7 @@
     </section><!-- End App Features Section -->
 
         <!-- ======= Gallery Section ======= -->
-        <section id="gallery" class="gallery" style="background-color:#EFF2F8;">
+        <section id="gallery" class="gallery" style="background-color:#e0e0e0;">
       <div class="container">
 
         <div class="section-title">
@@ -82,7 +82,7 @@
   <!-- ======= Footer ======= -->
   <footer id="footer">
 
-    <div class="footer-top" style="background-color:#efc4d2;">
+    <div class="footer-top">
       <div class="container">
         <div class="row">
 

@@ -14,7 +14,7 @@ include('header.php');
           data-aos="fade-up">
           <div>
             <div class="section-title" style="text-align:left;padding:0px;">
-              <h2>Le moyen le plus simple de retenir des services</h2>
+              <h2>Le moyen le plus simple de <br> retenir des services à domicile.</h2>
             </div>
             <h2>Engagez les meilleurs professionnels pour vos petits et grands travaux en un seul clic.</h2><br>
             <button class="btn btn-outline-dark btn-icon-text">
@@ -42,7 +42,7 @@ include('header.php');
   <main id="main">
       
     <!-- ======= Gallery Section ======= -->
-    <section id="gallery" class="gallery" style="background-color:#EFF2F8;">
+    <section id="gallery" class="gallery" style="background-color:#e0e0e0;">
       <div class="container">
 
         <div class="section-title">
@@ -89,7 +89,7 @@ include('header.php');
                 </div>
       </section>
     <!-- ======= Details Section ======= -->
-          <section id="details" class="details" style="background-color:#EFF2F8;">
+          <section id="details" class="details" style="background-color:#e0e0e0;">
             <div class="container">
 
               <div class="embed-responsive embed-responsive-16by9">

@@ -6,7 +6,7 @@ include('header.php');
 
 
     <!-- ======= Frequently Asked Questions Section ======= -->
-    <section id="faq" class="faq section-bg">
+    <section id="faq" class="faq section-bg he">
       <div class="container">
 
         <div class="section-title">

@@ -34,9 +34,9 @@
   * License: https://bootstrapmade.com/license/
   ======================================================== -->
   <style>
-     .mdi-36px {
-     font-size: 39px;
-     margin-right: 10px
+.mdi-36px {
+font-size: 39px;
+margin-right: 10px
  }
 p{
   font-size: 20px;

@@ -6,7 +6,7 @@ include('header.php');
 
 
     <!-- ======= Contact Section ======= -->
-    <section id="contact" class="contact" style="background-color:#EFF2F8;">
+    <section id="contact" class="contact he" style="background-color:#EFF2F8;">
       <div class="container">
 
         <div class="section-title">

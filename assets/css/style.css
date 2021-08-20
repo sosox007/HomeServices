@@ -14,7 +14,7 @@ body {
 }
 
 a {
-  color: #1bb1dc;
+  color: #1BB1DC;
 }
 
 a:hover {
@@ -37,7 +37,7 @@ h1, h2, h3, h4, h5, h6 {
   border-radius: 50px;
   right: 15px;
   bottom: 15px;
-  background: #1bb1dc;
+  background: #1BB1DC;
   color: #fff;
   transition: display 0.5s ease-in-out;
   z-index: 99999;
@@ -90,7 +90,7 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 #header .logo h1 a, #header .logo h1 a:hover {
-  color: #1bb1dc;
+  color: #1BB1DC;
   text-decoration: none;
 }
 
@@ -127,12 +127,12 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 .nav-menu a:hover, .nav-menu .active > a, .nav-menu li:hover > a {
-  color: #1bb1dc;
+  color: #1BB1DC;
   text-decoration: none;
 }
 
 .nav-menu .get-started a {
-  background: #1bb1dc;
+  background: #1BB1DC;
   color: #fff;
   border-radius: 50px;
   margin: 0 15px;
@@ -178,7 +178,7 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 .nav-menu .drop-down ul a:hover, .nav-menu .drop-down ul .active > a, .nav-menu .drop-down ul li:hover > a {
-  color: #1bb1dc;
+  color: #1BB1DC;
 }
 
 .nav-menu .drop-down > a:after {
@@ -238,7 +238,7 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 .mobile-nav-toggle i {
-  color: #1bb1dc;
+  color: #1BB1DC;
 }
 
 .mobile-nav {
@@ -273,7 +273,7 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 .mobile-nav a:hover, .mobile-nav .active > a, .mobile-nav li:hover > a {
-  color: #1bb1dc;
+  color: #1BB1DC;
   text-decoration: none;
 }
 
@@ -356,7 +356,7 @@ h1, h2, h3, h4, h5, h6 {
   font-size: 48px;
   font-weight: 500;
   line-height: 56px;
-  color: #1bb1dc;
+  color: #1BB1DC;
   font-family: "Poppins", sans-serif;
 }
 
@@ -380,7 +380,7 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 #hero .download-btn:hover {
-  background: #1bb1dc;
+  background: #5777ba;
 }
 
 #hero .download-btn i {
@@ -452,7 +452,7 @@ section {
   font-weight: 400;
   margin-bottom: 20px;
   padding-bottom: 0;
-  color: #1bb1dc;
+  color: #213B52;
   font-family: "Poppins", sans-serif;
 }
 
@@ -604,7 +604,7 @@ section {
   width: 12px;
   height: 12px;
   border-radius: 50%;
-  background-color: #eff2f8 !important;
+  background-color: #e0e0e0 !important;
 }
 
 .gallery .owl-dot.active {
@@ -1081,12 +1081,12 @@ section {
   padding: 0 0 30px 0;
   color: #47536e;
   font-size: 14px;
-  background: #eff2f8;
+  background: #e0e0e0;
 }
 
 #footer .footer-newsletter {
   padding: 50px 0;
-  background: #eff2f8;
+  background: #e0e0e0;
   text-align: center;
   font-size: 15px;
 }
